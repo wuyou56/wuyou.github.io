@@ -18,13 +18,12 @@
 
 ### 个人信息
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+The most beautiful girl on earth , the future star of dentistry.
 
 ### 项目研究
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+niubility,niubility,niubility,niubility,niubility,niubility,niubility,niubility,niubility,niubility,niubility
 
 ### 荣誉奖励
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
+niubility,niubility,niubility,niubility,niubility,niubility,niubility,niubility,niubility,niubility,niubility,niubility
